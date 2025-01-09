@@ -25,4 +25,4 @@
 [<img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" width="30">](https://react.dev/)
 
 ## Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/ing-lima/)
+[<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="30">](https://www.linkedin.com/in/ing-lima/)
