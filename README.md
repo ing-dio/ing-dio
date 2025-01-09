@@ -24,6 +24,7 @@
 [<img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" width="30">](https://react.dev/)
 [<img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="30">](https://dev.mysql.com/)
 [<img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="30">](https://www.postgresql.org/)
+[<img src="https://cdn.simpleicons.org/gimp/5C5543" width="30">](https://www.gimp.org/)
 
 ## Connect with me:
 [<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="30">](https://www.linkedin.com/in/ing-lima/)
