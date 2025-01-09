@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 - ⚡ Fun fact: I love coding in the morning with a coffee cup!
 
 ### My Stats:
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true)
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ing-dio&show_icons=true)
 
 ### Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/ing-dio)
