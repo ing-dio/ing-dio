@@ -21,7 +21,8 @@
 [<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Tools and frameworks:
-[<img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" width="30">](https://www.java.com/en/)
+[<img src="https://img.icons8.com/?size=100&id=84710&format=png&color=000000" width="30">](https://getbootstrap.com/)
+[<img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" width="30">](https://react.dev/)
 
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/ing-lima/)
