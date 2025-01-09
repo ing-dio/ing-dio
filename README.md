@@ -17,6 +17,7 @@
 [<img src="https://cdn.simpleicons.org/html5/E34F26" width="30">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://cdn.simpleicons.org/css3/1572B6" width="30">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Tools and frameworks:
 [<img src="https://img.icons8.com/?size=100&id=84710&format=png&color=000000" width="30">](https://getbootstrap.com/)
