@@ -3,7 +3,7 @@
 ### Welcome to my GitHub profile!
 
 - 🔭 I am currently focused on building lightweight, high-performance, and visually stunning web applications.
-- 👯 I’m looking to collaborate on any web, android or ios app.
+- 💻 I’m looking to collaborate on any web, android or ios app.
 - 💬 Ask me about how artificial intelligence will replace our works one day.
 - ⚡ Fun fact: I love coding in the morning with a coffee cup!
 
