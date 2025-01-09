@@ -13,13 +13,13 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ing-dio&show_icons=true)
 
 ## Coding languages:
-[![Java](https://cdn.simpleicons.org/java/000000)](https://www.java.com/en/)
-[![Kotlin](https://cdn.simpleicons.org/kotlin/0095D5)](https://kotlinlang.org/)
-[![C#](https://cdn.simpleicons.org/csharp/239120)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![HTML](https://cdn.simpleicons.org/html5/E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://cdn.simpleicons.org/css3/1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://cdn.simpleicons.org/javascript/F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://cdn.simpleicons.org/python/306998)](https://www.python.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Java_logo_icon.png" width="30">](https://www.java.com/en/)
+[<img src="https://cdn.simpleicons.org/kotlin/0095D5" width="30">](https://kotlinlang.org/)
+[<img src="https://cdn.simpleicons.org/csharp/239120" width="30">](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[<img src="https://cdn.simpleicons.org/html5/E34F26" width="30">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://cdn.simpleicons.org/css3/1572B6" width="30">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://cdn.simpleicons.org/python/306998" width="30">](https://www.python.org/)
 
 ## Tools and frameworks:
 
