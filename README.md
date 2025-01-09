@@ -13,8 +13,8 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ing-dio&show_icons=true)
 
 ## Coding languages:
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Java_logo_icon.png" width="30">](https://www.java.com/en/)
-[<img src="https://cdn.simpleicons.org/kotlin/0095D5" width="30">](https://kotlinlang.org/)
+[<img src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" width="30">](https://www.java.com/en/)
+[<img src="https://img.icons8.com/?size=100&id=bGD8ChgdMIJV&format=png&color=000000" width="30">](https://kotlinlang.org/)
 [<img src="https://cdn.simpleicons.org/csharp/239120" width="30">](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [<img src="https://cdn.simpleicons.org/html5/E34F26" width="30">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://cdn.simpleicons.org/css3/1572B6" width="30">](https://developer.mozilla.org/en-US/docs/Web/CSS)
