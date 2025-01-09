@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**ing-dio/ing-dio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Project Name](link-to-project)
+- 🌱 I’m currently learning [technology or programming language]
+- 👯 I’m looking to collaborate on [open source project or anything]
+- 💬 Ask me about [topics you're passionate about]
+- 📫 How to reach me: [email/link to contact]
+- ⚡ Fun fact: I love coding in the morning with a coffee cup!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Stats:
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true)
+
+### Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/ing-dio)
