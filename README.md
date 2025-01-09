@@ -13,4 +13,4 @@ Welcome to my GitHub profile!
 ![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ing-dio&show_icons=true)
 
 ### Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/ing-dio)
+- [LinkedIn](https://www.linkedin.com/in/ing-lima/)
