@@ -1,6 +1,6 @@
 # Hello there 👋
 
-## My name is Diosbel Lima, but you can call me Dio
+### My name is Diosbel Lima, but you can call me Dio
 
 ### Welcome to my GitHub profile!
 
