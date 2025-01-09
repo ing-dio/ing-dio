@@ -1,7 +1,5 @@
 # Hello there 👋
 
-### My name is Diosbel Lima, but you can call me Dio
-
 ### Welcome to my GitHub profile!
 
 - 🔭 I am currently focused on building lightweight, high-performance, and visually stunning web applications.
