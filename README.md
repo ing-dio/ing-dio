@@ -68,7 +68,6 @@
   <a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" width="40" alt="Git"></a>
   <a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" alt="GitHub"></a>
   <a href="https://www.linux.org/"><img src="https://cdn.simpleicons.org/linux/FCC624" width="40" alt="Linux"></a>
-  <a href="https://code.visualstudio.com/"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" alt="VS Code"></a>
 </p>
 
 ## 🤝 Connect with me
