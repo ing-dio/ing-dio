@@ -1,30 +1,81 @@
-# Hello there 👋
+# Hello there! 👋
 
 ### Welcome to my GitHub profile!
 
-- 🔭 I am currently focused on building lightweight, high-performance, and visually stunning web applications.
-- 💻 I’m looking to collaborate on any web, android or ios app.
-- 💬 Ask me about how artificial intelligence will replace our works one day.
-- ⚡ Fun fact: I love coding in the morning with a coffee cup!
+- 🔭 I'm focused on building scalable, high-performance, and visually stunning web applications.
+- 💻 I'm interested in collaborating on Web, Android, iOS, and AI-powered applications.
+- 🌱 I'm continuously learning about Full Stack Engineering, Cloud Computing, and Artificial Intelligence.
+- 💬 Ask me about Full Stack Development, software architecture, and Artificial Intelligence.
+- ⚡ Fun fact: I love coding in the morning with a cup of coffee!
 
-## My Stats:
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ing-dio&show_icons=true)
+---
 
-## Coding languages:
-[<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="35">](https://www.java.com/en/)
-[<img src="https://cdn.simpleicons.org/python/306998" width="30">](https://www.python.org/)
-[<img src="https://img.icons8.com/?size=100&id=bGD8ChgdMIJV&format=png&color=000000" width="30">](https://kotlinlang.org/)
-[<img src="https://cdn.simpleicons.org/php/777BB4" width="30">](https://www.php.net/)
-[<img src="https://cdn.simpleicons.org/html5/E34F26" width="30">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://cdn.simpleicons.org/css3/1572B6" width="30">](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+## 📊 GitHub Stats
 
-## Tools and frameworks:
-[<img src="https://img.icons8.com/?size=100&id=84710&format=png&color=000000" width="30">](https://getbootstrap.com/)
-[<img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" width="30">](https://react.dev/)
-[<img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="30">](https://dev.mysql.com/)
-[<img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="30">](https://www.postgresql.org/)
-[<img src="https://img.icons8.com/?size=100&id=b4Y5rs3iBGqE&format=png&color=000000" width="30">](https://www.gimp.org/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ing-dio&show_icons=true&theme=transparent&hide_border=true)
 
-## Connect with me:
-[<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="30">](https://www.linkedin.com/in/ing-lima/)
+---
+
+## 💻 Programming Languages
+
+<p>
+  <a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" alt="TypeScript"></a>
+  <a href="https://www.javascript.com/"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" alt="JavaScript"></a>
+  <a href="https://www.java.com/"><img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="40" alt="Java"></a>
+  <a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="Python"></a>
+  <a href="https://kotlinlang.org/"><img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="40" alt="Kotlin"></a>
+  <a href="https://www.php.net/"><img src="https://cdn.simpleicons.org/php/777BB4" width="40" alt="PHP"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.simpleicons.org/html5/E34F26" width="40" alt="HTML5"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.simpleicons.org/css3/1572B6" width="40" alt="CSS3"></a>
+</p>
+
+## 🎨 Frontend Development
+
+<p>
+  <a href="https://react.dev/"><img src="https://cdn.simpleicons.org/react/61DAFB" width="40" alt="React"></a>
+  <a href="https://nextjs.org/"><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="40" alt="Next.js"></a>
+  <a href="https://astro.build/"><img src="https://cdn.simpleicons.org/astro/FF5D01" width="40" alt="Astro"></a>
+  <a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" alt="Tailwind CSS"></a>
+  <a href="https://getbootstrap.com/"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40" alt="Bootstrap"></a>
+</p>
+
+## ⚙️ Backend Development
+
+<p>
+  <a href="https://nodejs.org/"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="40" alt="Node.js"></a>
+  <a href="https://expressjs.com/"><img src="https://cdn.simpleicons.org/express/FFFFFF" width="40" alt="Express"></a>
+  <a href="https://nestjs.com/"><img src="https://cdn.simpleicons.org/nestjs/E0234E" width="40" alt="NestJS"></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://cdn.simpleicons.org/springboot/6DB33F" width="40" alt="Spring Boot"></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.simpleicons.org/fastapi/009688" width="40" alt="FastAPI"></a>
+  <a href="https://laravel.com/"><img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" alt="Laravel"></a>
+</p>
+
+## 🗄️ Databases
+
+<p>
+  <a href="https://www.postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" alt="PostgreSQL"></a>
+  <a href="https://www.mysql.com/"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" alt="MySQL"></a>
+  <a href="https://www.mongodb.com/"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" alt="MongoDB"></a>
+  <a href="https://redis.io/"><img src="https://cdn.simpleicons.org/redis/FF4438" width="40" alt="Redis"></a>
+</p>
+
+## 🛠️ DevOps & Tools
+
+<p>
+  <a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" width="40" alt="Docker"></a>
+  <a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" width="40" alt="Git"></a>
+  <a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" alt="GitHub"></a>
+  <a href="https://www.linux.org/"><img src="https://cdn.simpleicons.org/linux/FCC624" width="40" alt="Linux"></a>
+  <a href="https://code.visualstudio.com/"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" alt="VS Code"></a>
+</p>
+
+## 🤝 Connect with me
+
+<p>
+  <a href="https://www.linkedin.com/in/ing-lima/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/ing-dio">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" alt="GitHub">
+  </a>
+</p>
