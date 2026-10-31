@@ -25,7 +25,6 @@
   <a href="https://www.javascript.com/"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" alt="JavaScript"></a>
   <a href="https://kotlinlang.org/"><img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="40" alt="Kotlin"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.simpleicons.org/html5/E34F26" width="40" alt="HTML5"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.simpleicons.org/css3/1572B6" width="40" alt="CSS3"></a>
 </p>
 
 ## 🎨 Frontend Development
