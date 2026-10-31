@@ -67,7 +67,7 @@
 ## 🤝 Connect with me
 
 <p>
-  <a href="https://www.linkedin.com/in/ing-lima/">
+  <a href="https://www.linkedin.com/in/dio93/">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn">
   </a>
   <a href="https://github.com/ing-dio">
