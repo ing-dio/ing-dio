@@ -19,12 +19,13 @@
 ## 💻 Programming Languages
 
 <p>
-  <a href="https://www.java.com/"><img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="40" alt="Java"></a>
-  <a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="Python"></a>
   <a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" alt="TypeScript"></a>
   <a href="https://www.javascript.com/"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" alt="JavaScript"></a>
+  <a href="https://www.java.com/"><img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="40" alt="Java"></a>
+  <a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="Python"></a>
   <a href="https://kotlinlang.org/"><img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="40" alt="Kotlin"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.simpleicons.org/html5/E34F26" width="40" alt="HTML5"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.simpleicons.org/css3/1572B6" width="40" alt="CSS3"></a>
 </p>
 
 ## 🎨 Frontend Development
@@ -42,8 +43,14 @@
 <p>
   <a href="https://nodejs.org/"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="40" alt="Node.js"></a>
   <a href="https://expressjs.com/"><img src="https://cdn.simpleicons.org/express/FFFFFF" width="40" alt="Express"></a>
-  <a href="https://nestjs.com/"><img src="https://cdn.simpleicons.org/nestjs/E0234E" width="40" alt="NestJS"></a>
   <a href="https://spring.io/projects/spring-boot"><img src="https://cdn.simpleicons.org/springboot/6DB33F" width="40" alt="Spring Boot"></a>
+</p>
+
+## ☁️ Backend as a Service (BaaS)
+
+<p>
+  <a href="https://supabase.com/"><img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="40" alt="Supabase"></a>
+  <a href="https://firebase.google.com/"><img src="https://cdn.simpleicons.org/firebase/DD2C00" width="40" alt="Firebase"></a>
 </p>
 
 ## 🗄️ Databases
@@ -54,22 +61,4 @@
   <a href="https://www.mongodb.com/"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" alt="MongoDB"></a>
 </p>
 
-## 🛠️ DevOps & Tools
-
-<p>
-  <a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" width="40" alt="Docker"></a>
-  <a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" width="40" alt="Git"></a>
-  <a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" alt="GitHub"></a>
-  <a href="https://www.linux.org/"><img src="https://cdn.simpleicons.org/linux/FCC624" width="40" alt="Linux"></a>
-</p>
-
-## 🤝 Connect with me
-
-<p>
-  <a href="https://www.linkedin.com/in/dio93/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/ing-dio">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" alt="GitHub">
-  </a>
-</p>
+## 🛠
