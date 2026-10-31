@@ -73,8 +73,9 @@
 ## 🤝 Connect with me
 
 <p>
-  <a href="https://www.linkedin.com/in/ing-lima/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/dio93/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
   </a>
   <a href="https://github.com/ing-dio">
     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" alt="GitHub">
